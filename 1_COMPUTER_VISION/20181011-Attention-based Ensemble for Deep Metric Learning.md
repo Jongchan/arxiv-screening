@@ -16,7 +16,7 @@ Thoughts
   - currently share the embedding function
 - Decompose the feature with attention masks, diversify within each sample!
 
-![module overview](images/20181011-attention-based-0.png)
-![module overview](images/20181011-attention-based-1.png)
-![module overview](images/20181011-attention-based-2.png)
-![module overview](images/20181011-attention-based-3.png)
+![module overview](https://raw.githubusercontent.com/Jongchan/arxiv-screening/master/images/20181011-attention-based-0.png)
+![divergence loss](https://raw.githubusercontent.com/Jongchan/arxiv-screening/master/images/20181011-attention-based-1.png)
+![architecture](https://raw.githubusercontent.com/Jongchan/arxiv-screening/master/images/20181011-attention-based-2.png)
+![performance](https://raw.githubusercontent.com/Jongchan/arxiv-screening/master/images/20181011-attention-based-3.png)
