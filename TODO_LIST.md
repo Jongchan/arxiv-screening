@@ -7,3 +7,9 @@
   - Progressively activate next(higher level) capsules during inference. How is it related to attention mechanisms?
 - [Feature-wise transformations](https://distill.pub/2018/feature-wise-transformations/)
   - A summary of attention mechanisms in distill.pub.
+- [Borderline-SMOTE: A New Over-Sampling Method in Imbalanced Data Sets Learning](https://sci2s.ugr.es/keel/keel-dataset/pdfs/2005-Han-LNCS.pdf)
+  - Oversampling technique
+  - [Link to a summary blog](https://m.blog.naver.com/hist0134/221203617391)
+- [Data Augmentation by Pairing Samples for Images Classification](https://openreview.net/pdf?id=SJn0sLgRb)
+  - Similar as [Between-Class](http://openaccess.thecvf.com/content_cvpr_2018/html/Tokozume_Between-Class_Learning_for_CVPR_2018_paper.html)
+  - Also similar as [mixup](https://arxiv.org/pdf/1710.09412.pdf)
