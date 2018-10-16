@@ -13,3 +13,8 @@
 - [Data Augmentation by Pairing Samples for Images Classification](https://openreview.net/pdf?id=SJn0sLgRb)
   - Similar as [Between-Class](http://openaccess.thecvf.com/content_cvpr_2018/html/Tokozume_Between-Class_Learning_for_CVPR_2018_paper.html)
   - Also similar as [mixup](https://arxiv.org/pdf/1710.09412.pdf)
+- [Lung Structures Enhancement in Chest Radiographs via CT based FCNN Training](https://arxiv.org/pdf/1810.05989.pdf)
+  - Transfer knowledge from CT to X-Ray images
+  - Strong point (?) : X-Ray images are reconstructed / simulated. No paired data required.
+  - If we can get access to many CT data, we may further exploit "hidden features" in X-Ray images?
+    - We already have plenty of public X-Ray images.
