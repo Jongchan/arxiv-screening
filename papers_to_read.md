@@ -18,3 +18,6 @@
   - Strong point (?) : X-Ray images are reconstructed / simulated. No paired data required.
   - If we can get access to many CT data, we may further exploit "hidden features" in X-Ray images?
     - We already have plenty of public X-Ray images.
+- [Neural Architecture Search: A Survey](https://arxiv.org/pdf/1808.05377.pdf)
+  - A survey on neural architecture search
+  - very short?
