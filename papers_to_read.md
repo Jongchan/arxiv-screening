@@ -21,3 +21,5 @@
 - [Neural Architecture Search: A Survey](https://arxiv.org/pdf/1808.05377.pdf)
   - A survey on neural architecture search
   - very short?
+- [Segmentation-aware convolutional networks using local attention masks](https://arxiv.org/abs/1708.04607)
+  - Refine segmentation with attention
