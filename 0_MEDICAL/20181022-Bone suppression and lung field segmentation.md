@@ -7,8 +7,8 @@ Overview
 - Used Indiana images (Open-I), 2 radiologists annotated for 8 diseases (frontal / lateral images from 3125 patients)
 - Pretrain ResNet-50 on ChestX-Ray14 dataset, later finetune on the target dataset (Indiana)
 - Slightly better than baseline (AUC 0.891 --> 0.906)
-- Bone suppression helps detecting foreign object (AUC 0.795 --> 0.815)
-- Lung field detection helps overall performance, especially in mass (AUC 0.766 --> 0.821)
+- **Bone suppression** helps **detecting foreign object** (AUC 0.795 --> 0.815)
+- **Lung field detection** helps overall performance, especially in **mass** (AUC 0.766 --> 0.821)
 
 Thoughts
-- Mass / foreign objects are 2 of top 3 most prevalent class. 
+- Mass / foreign objects are 2 of top 3 most prevalent class. Why low AUC?
