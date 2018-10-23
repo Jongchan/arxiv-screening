@@ -11,3 +11,5 @@ Thoughts
 - Multiple Integer Programming is better than k-center-greedy algorithm, but not so much effective. k-center-greedy is good enough.
 - Why random sampling is better than other AL algorithms?
   - possible correlation in the chosen samples.
+- Low performance of ORACLE uncertainty (select samples according to the loss values) indicates **information bias**
+- What is the baseline architecture?
