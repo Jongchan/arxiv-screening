@@ -29,3 +29,6 @@
 - [Neural Nearest Neighbors Networks](https://arxiv.org/pdf/1810.12575.pdf), NIPS2018
   - Differentiable form of nearest neighbor
   - Validated on denoising task (why? can it be useful for recognition tasks?)
+- [Neural Architecture Optimization](https://arxiv.org/pdf/1808.07233.pdf)
+  - Optimization-based architecture search
+  - An encoder encodes architecture into a continuous space --> a predictor predicts the final accuracy of the encoded architecture --> a decoder decodes the architecture to its original form.
