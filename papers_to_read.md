@@ -32,3 +32,4 @@
 - [Neural Architecture Optimization](https://arxiv.org/pdf/1808.07233.pdf)
   - Optimization-based architecture search
   - An encoder encodes architecture into a continuous space --> a predictor predicts the final accuracy of the encoded architecture --> a decoder decodes the architecture to its original form.
+  - We can generate the best performing architecture by decoding the embedded architecture that makes highest predicted accuracy (optimization by backprop?)
