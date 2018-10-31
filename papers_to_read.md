@@ -23,3 +23,6 @@
   - very short?
 - [Segmentation-aware convolutional networks using local attention masks](https://arxiv.org/abs/1708.04607)
   - Refine segmentation with attention
+- [A2-Nets: Double Attention Networks](https://arxiv.org/pdf/1810.11579.pdf)
+  - Attention method that is slightly better than non-local neural network
+  - Experiments on ImageNet and Video datasets.
